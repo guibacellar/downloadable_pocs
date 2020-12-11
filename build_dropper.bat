@@ -1,0 +1,1 @@
+venv\scripts\python.exe dropper_setup.py py2exe
